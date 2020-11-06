@@ -1,4 +1,5 @@
 body, html {
+  background-image: 
   width: 100%;
   height: 100%;
   font-family: Apple Chancery, cursive;
@@ -30,6 +31,7 @@ h4 {
 }
 
 .indifferent {
+  border: 1px solid #EAEA6E ;
   box-shadow: -1px 1px #EAEA6E, -2px 2px #EAEA6E, -3px 3px #EAEA6E, -4px 4px #EAEA6E, -5px 5px #EAEA6E;
     background-color: #dddd22;
 }
