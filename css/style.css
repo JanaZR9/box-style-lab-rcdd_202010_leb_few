@@ -38,6 +38,8 @@ h4 {
 
 .dubious {
   background-color: #dd4444;
+   border: 1px solid #EAEA6E ;
+  box-shadow: -1px 1px #EAEA6E, -2px 2px #EAEA6E, -3px 3px #EAEA6E, -4px 4px #EAEA6E, -5px 5px #EAEA6E;
 }
 
 .column {
